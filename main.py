@@ -16,7 +16,7 @@ os.makedirs("assets", exist_ok=True)
 # ---- CSS Personnalisé ----
 def load_css():
     try:
-        with open("https://github.com/BaawsGit/Chatbot-agricole/blob/main/assets/custom.css") as f:
+        with open("assets/custom.css") as f:
             st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
     except:
         st.warning("CSS non chargé")
