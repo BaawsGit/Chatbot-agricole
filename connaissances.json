@@ -1,0 +1,632 @@
+{
+    "Plantation": [
+      {
+        "fr": {
+          "question": "Quand planter le mil ?",
+          "reponse": "Le mil se plante en juin avec les premières pluies."},
+        "br": {
+          "question": "Ɲɔ bɛ sɛnɛ tuma jumɛn ?",
+          "reponse": "Ɲɔ bɛ sɛnɛ zuwɛnkalo la, sanji fɔlɔw la."},
+        "fr1": {
+          "question": "Quand planter le riz ?",
+          "reponse": "Le riz se plante juste après les premières pluies."},
+        "br1":{
+          "question": "Malo bɛ sɛnɛ tuma jumɛn ?",
+          "reponse": "Malo bɛ sɛnɛ sanji fɔlɔw kɔfɛ dɔrɔn."},
+        "fr2":{
+          "question": "Quand planter le maïs ?",
+          "reponse": "Le maïs se plante en début de saison pluvieuse."},
+        "br2":{
+          "question": "Kaba bɛ sɛnɛ tuma jumɛn ?",
+          "reponse": "Kaba bɛ sɛnɛ samiya daminɛ na."},
+        "fr3":{
+          "question": "Quand planter les arachides ?",
+          "reponse": "Les arachides se plantent entre mai et juin."},
+        "br3":{
+          "question": "Tiga bɛ sɛnɛ tuma jumɛn ?",
+          "reponse": "Tiga bɛ sɛnɛ mɛkalo ni zuwɛnkalo cɛ."},
+        "fr4":{
+          "question": "Quand planter le gombo ?",
+          "reponse": "Le gombo se plante après les premières pluies."},
+        "br4":{
+          "question": "Gan bɛ sɛnɛ tuma jumɛn ?",
+          "reponse": "Gan bɛ sɛnɛ sanji fɔlɔw kɔfɛ."},
+        "fr5":{
+          "question": "Quels légumes planter en saison sèche ?",
+          "reponse": "Oignon, tomate, chou peuvent se planter avec arrosage."},
+        "br5":{
+          "question": "Nakɔfɛn jumɛnw ka kan ka sɛnɛ tilema waati la ?",
+          "reponse": "Jaba, tomati, supɔme bɛ sɛnɛ ni ji ye."},
+        "fr6":{
+          "question": "Combien de temps avant de récolter le mil ?",
+          "reponse": "Le mil se récolte environ 3 à 4 mois après plantation."},
+        "br6":{
+          "question": "Waati jumɛn sani ɲɔ ka tigɛ ?",
+          "reponse": "Ɲɔ bɛ sɔrɔ kalo 3 fo 4 kalo nɔgɔn, dan ni kɔfɛ."},
+        "fr7":{
+          "question": "Peut-on planter deux cultures ensemble ?",
+          "reponse": "Oui, on appelle cela la culture associée (ex : mil et niébé)."},
+        "br7":{
+          "question": "Yala sɛnɛfɛn fila bɛ se ka sɛnɛ ɲɔgɔn fɛ wa ?",
+          "reponse": "Ɔwɔ, an b'o wele ko sɛnɛfɛnw dan ni ɲɔgɔn fɛ (misali la : ɲɔ ni shɔ"},
+        "fr8":{
+          "question": "Quels légumes poussent bien ensemble ?",
+          "reponse": "Le gombo et la tomate poussent bien ensemble car ils se protègent mutuellement."},
+        "br8":{
+          "question": "Nakɔfɛn jumɛnw bɛ se ka sɛnɛ ɲɔgɔn fɛ ?",
+          "reponse": "Gan ani tomati bɛ sɛnɛ ɲɔgɔn fɛ sabu u bɛ ɲɔgɔn lakana."},
+        "fr9":{
+          "question": "Peut-on planter en pot ?",
+          "reponse": "Oui, certains légumes comme la tomate, la laitue ou le piment poussent bien en pot."},
+        "br9":{
+          "question": "Yala jiri bɛ se ka turu daga kɔnɔ wa ?",
+          "reponse": "Ɔwɔ, nakɔfɛn dɔw i n’a fɔ tomati, salati walima foroto bɛ falen ka ɲɛ dagaw kɔnɔ."},
+        "fr10":{
+          "question": "Pourquoi certaines graines ne germent pas ?",
+          "reponse": "Cela peut venir de graines trop vieilles, trop d’eau ou un sol inadapté."},
+        "br10":{
+          "question": "Mun na kisɛ dɔw tɛ falen?",
+          "reponse": "O bɛ se ka bɔ kisɛ kɔrɔ ko jugu la, ji caman walima dugukolo min tɛ bɛn."}
+      }
+    ],
+    "Sol et engrais": [
+      {
+        "fr": {
+          "question": "Comment améliorer un sol pauvre ?",
+          "reponse": "Ajoute du compost, fumier ou fais une rotation des cultures."},
+        "br" : {
+          "question": "Dugukolo jugu bɛ se ka ɲɛ cogo di ?",
+          "reponse": "Aw bɛ kɔmpo, nɔgɔ walima aw bɛ sɛnɛfɛnw falen falen."},
+        "fr1": {
+          "question": "Comment savoir si mon sol est bon ?",
+          "reponse": "Un bon sol est noir, retient l'eau et sent la terre fraîche."},
+        "br1":{
+          "question": "Ne bɛ se k'a dɔn cogo di ko ne ka dugukolo ka ɲi ?",
+          "reponse": "Dugukolo ɲuman ye fiman ye, a bɛ ji mara ani a kasa ka di."},
+        "fr2":{
+          "question": "Quel engrais naturel utiliser ?",
+          "reponse": "Le compost, le fumier, ou les cendres sont utiles."},
+        "br2":{
+          "question": "An ka kan ka baara kɛ ni bagaji nafama jumɛn ye ?",
+          "reponse": "Kɔmpo, nɔgɔ, walima buguri nafa ka bon."},
+        "fr3":{
+          "question": "Quand ajouter l’engrais ?",
+          "reponse": "Ajoute l’engrais 2 à 3 semaines après la levée des plantes."},
+        "br3":{
+          "question": "Tuma jumɛn na an ka kan ka bagaji fara a kan ?",
+          "reponse": "Aw bɛ bagaji fara a kan dɔgɔkun 2 fo dɔgɔkun 3 jiriw bɔlen kɔfɛ."},
+        "fr4":{
+          "question": "Quelle quantité d’engrais utiliser ?",
+          "reponse": "Il faut suivre les conseils selon le type de culture."},
+        "br4":{
+          "question": "Bagaji joli ka kan ka kai a la ?",
+          "reponse": "Aw ka kan ka laadilikanw labato ka kɛɲɛ ni dan ni suguya ye."},
+        "fr5":{
+          "question": "Le fumier peut-il brûler les plantes ?",
+          "reponse": "Oui, s’il est trop frais. Il faut le laisser fermenter avant usage."},
+        "br5":{
+          "question": "Ɲɔgɔ bɛ se ka jiriw jeni wa ?",
+          "reponse": "Ɔwɔ, n'a kɛra kura ye kojugu. A ka kan ka a to a ka mɔ ka sɔrɔ ka baara kɛ ni a ye."},
+        "fr6":{
+          "question": "Comment reconnaître un sol pauvre ?",
+          "reponse": "Un sol pauvre a une couleur claire, peu d'humidité, peu de vers de terre, et les plantes y poussent difficilement."},
+        "br6":{
+          "question": "Dugukolo jugu b dɔn cogo di?",
+          "reponse": "Dugukolo faantanw kulɛri ka nɔgɔn, u nɛnɛ ka dɔgɔ, u ntumu ka dɔgɔn, wa jiriw falenni ka gɛlɛn."},
+        "fr7":{
+          "question": "Quel est le meilleur moment pour ajouter de l'engrais naturel ?",
+          "reponse": "Le meilleur moment est juste avant les premières pluies, pour que l’engrais se mélange bien avec le sol.Le meilleur moment est juste avant les premières pluies, pour que l’engrais se mélange bien avec le sol."},
+        "br7":{
+          "question": "Tuma jumɛn de ka fisa ka bagaji nafama fara a kan?",
+          "reponse": "Waati min ka fisa, o ye ka kɔn sanji fɔlɔ ɲɛ dɔɔni, walasa bagaji ka ɲagami bɔgɔ la kosɛbɛ."},
+        "fr8":{
+          "question": "Peut-on utiliser les cendres comme engrais ?",
+          "reponse": "Oui, les cendres de bois sont un bon engrais pour corriger l’acidité du sol, mais il faut les utiliser avec modération."},
+        "br8":{
+          "question": "Yala an bɛ se ka buguri kɛ bagaji ye wa",
+          "reponse": "Ɔwɔ, jirimugu ye bagaji ɲuman ye walasa ka dugukolo asidiji latilen, nka u ka kan ka kɛ ni u hakɛ ye."},
+        "fr9":{
+          "question": "Quelle est la différence entre compost et fumier ?",
+          "reponse": "Le compost est fait de déchets végétaux décomposés, le fumier vient des déjections animales ; les deux sont utiles pour enrichir le sol."},
+        "br9":{
+          "question":"Danfara jumɛn bɛ kɔmpo ni nɔgɔ cɛ?",
+          "reponse": "Kɔmpo bɛ dilan ni jiriw nɔgɔ tolilenw ye, nɔgɔ bɛ bɔ baganw ka nɔgɔ la; u fila bɛɛ nafa ka bon dugukolo nafabɔli la."},
+        "fr10":{
+          "question": "Comment améliorer la rétention d'eau d'un sol sablonneux ?",
+          "reponse": "Il faut y ajouter du compost ou du fumier, qui aident à retenir l’eau et nourrir les plantes."},
+        "br10":{
+          "question": "Ji marali bɛ se ka ɲɛ cogo di dugukolo cɛncɛn ma la?",
+          "reponse": "Komposi walima nɔgɔ ka kan ka fara a kan, o bɛ dɛmɛ ka ji mara ani ka jiriw balo."}
+      }
+    ],
+    "Maladies et parasites": [
+      {
+        "fr": {
+          "question": "Comment reconnaître une plante malade ?",
+          "reponse": "Feuilles jaunes, taches ou déformation sont des signes."},
+        "br" : {
+          "question": "Bana bagatɔ jiri be dɔn cogo di ?",
+          "reponse": "Bulu nɛrɛw maw, nɔw walima fɛn caman tigɛli ye taamasiyɛnw ye."},
+        "fr1": {
+          "question": "Que faire contre les insectes nuisibles ?",
+          "reponse": "Utilise du neem, des pièges ou des décoctions naturelles."},
+        "br1":{
+          "question": "Mu'n ka kan ka kɛ fɛnɲɛnama juguw kama ?",
+          "reponse": "Aw bɛ baara kɛ ni neem, jan walima nafamafɛnw ye."},
+        "fr2":{
+          "question": "Pourquoi mes feuilles deviennent jaunes ?",
+          "reponse": "C’est souvent un manque d’azote ou d’eau."},
+        "br2":{
+          "question": "Mun na ne ka buluw bɛ kɛ nɛrɛw maw ye ?",
+          "reponse": "A ka c'a la, a bɛ kɛ azote walima ji dɛsɛ ye."},
+        "fr3":{
+          "question": "Comment éviter les maladies des plantes ?",
+          "reponse": "Espacer les plantes, bien arroser, surveiller les feuilles."},
+        "br3":{
+          "question": "Jiriw ka banaw bɛ se ka bali cogo di? ",
+          "reponse": "Jiriw yɔrɔ janya, ka ji kɛ u la kɔlɛbɛ, ka furabuluw kɔlɔsi."},
+        "fr4":{
+          "question": "Que faire si les tiges deviennent molles ?",
+          "reponse": "Réduis l’arrosage et vérifie s’il y a des vers ou champignons."},
+        "br4":{
+          "question": "Ni jiriw kɛra sɔgɔsɔgɔninjɛ ye, an ka kan ka mun kɛ ?",
+          "reponse": "Aw bɛ dɔ bɔ ji la ani ka a lajɛ ni tumuw walima ɲɛgɛnw tɛ a la"},
+        "fr5":{
+          "question": "Les poux des plantes sont-ils dangereux ?",
+          "reponse": "Oui, ils sucent la sève et affaiblissent la plante."},
+        "br5":{
+          "question": "Yala jirila tumuw farati ka bon wa ?",
+          "reponse": "Ɔwɔ, u bɛ ji sama ka jiri barika dɔgɔya."},
+        "fr6":{
+          "question": "Comment détecter une attaque de chenilles sur les feuilles ?",
+          "reponse": "Les feuilles sont trouées, mangées sur les bords ou enroulées ; on peut aussi voir les chenilles elles-mêmes."},
+        "br6":{
+          "question": "Cogo di ka ntumuw ka binkanni dɔn furabuluw kan?",
+          "reponse": "A buluw bɛ sɔgɔsɔgɔ, u bɛ dun u da la walima u bɛ kurukuru; Aw bɛ se ka ntumuw yɛrɛ ye fana."},
+        "fr7":{
+          "question": "Quels parasites attaquent souvent le maïs ?",
+          "reponse": "Le foreur de tige, les chenilles et les pucerons sont les plus fréquents sur le maïs."},
+        "br7":{
+          "question": "Banakisɛ jumɛnw ka teli ka bin kaba kan?",
+          "reponse": "Sɔgɔsɔgɔninjɛ, ntumuw ani pɛrɛn de ka ca kaba kan."},
+        "fr8":{
+          "question": "Est-ce que les maladies des plantes se propagent vite ?",
+          "reponse": "Oui, certaines maladies se propagent rapidement par l’air, l’eau ou le toucher entre plantes."},
+        "br8":{
+          "question": "Yala jiriw ka banaw bɛ jɛnsɛn joona wa?",
+          "reponse": "Ɔwɔ, bana dɔw bɛ jɛnsɛn joona fiɲɛ fɛ, ji fɛ walima magali fɛ jiriw ni ɲɔgɔn cɛ."},
+        "fr9":{
+          "question": "Peut-on soigner une plante déjà malade ?",
+          "reponse": "Oui, si la maladie est détectée tôt, on peut utiliser des produits naturels ou retirer les parties malades."},
+        "br9":{
+          "question":"Jiri bɛ se ka furakɛ min bananen don kaban wa?",
+          "reponse": "Ɔwɔ, ni bana in dɔnna joona, an bɛ se ka furaw kɛ a la walima a yɔrɔ bananenw bɛ se ka tikɛ."},
+        "fr10":{
+          "question": "Comment éviter que les insectes ne détruisent la récolte ?",
+          "reponse": "Il faut surveiller les champs régulièrement, utiliser des pièges ou des traitements naturels."},
+        "br10":{
+          "question": "Fɛnɲɛnɛmaw ka tiɲɛli bɛ se ka bali cogo di?",
+          "reponse": "Forow ka kan ka kɔlɔsi tuma bɛɛ, janfaw walima furakɛli nafamaw ka kan ka kɛ."}
+      }
+    ],
+    "Irrigation": [
+      {
+        "fr": {
+          "question": "Faut-il arroser tous les jours ?",
+          "reponse": "Non, mieux vaut arroser profondément tous les 2 ou 3 jours."},
+        "br" : {
+          "question": "Yala an ka kan ka ji kɛ don o don wa?",
+          "reponse": "Ayi, a ka fisa ka ji caman kɛ tile 2 walima tile 3 o tile 3."},
+        "fr1": {
+          "question": "Comment arroser sans pompe ?",
+          "reponse": "Utilise un arrosoir ou un goutte-à-goutte fait maison."},
+        "br1":{
+          "question": "Ji bɛ se ka kɛ cogo di ni pɔnpe tɛ?",
+          "reponse": "Aw bɛ jibolisira walima jibɔlan min dilannen don so kɔnɔ, aw bɛ o kɛ."},
+        "fr2":{
+          "question": "Peut-on arroser avec de l’eau de puits ?",
+          "reponse": "Oui, si elle est propre et sans sel."},
+        "br2":{
+          "question": "An bɛ se ka ji kɛ ni kɔlɔn ji ye wa?",
+          "reponse": "Ɔwɔ, ni a saniyalen don ani kɔgɔ tɛ a la."},
+        "fr3":{
+          "question": "Comment éviter que l’eau s’évapore vite ?",
+          "reponse": "Ajoute de la paille ou couvre le sol (paillage)."},
+        "br3":{
+          "question": "Ji bɛ se ka bali ka wuli joona cogo di",
+          "reponse": "Aw bɛ bɔgɔdaga fara a kan walima ka dugukolo datugu."},
+        "fr4":{
+          "question": "Quels sont les inconvénients d’un arrosage excessif ?",
+          "reponse": "L’excès d’eau peut provoquer le pourrissement des racines, le développement de champignons et limiter la croissance."},
+        "br4":{
+          "question": "Ji ko dan tɛmɛnen bɛ se ka na ni Kɔlɔlɔ jumɛn ye ?",
+          "reponse": "Ji caman kɛli bɛ se ka kɛ sababu ye ka jirisunw toli, ka ɲɛgɛnw falen ani ka dan sigi u falenni na."},
+        "fr5":{
+          "question": "Quelle est la meilleure heure pour irriguer les cultures ?",
+          "reponse": "Le matin tôt ou le soir pour éviter l’évaporation rapide due au soleil."},
+        "br5":{
+          "question": "Sɛnɛfɛnw jibɔ waati ɲuman ye kuman jumɛn ye?",
+          "reponse": "Sɔgɔmada joona fɛ walima wula fɛ walasa a kana wuli joona tile fɛ."},
+        "fr6":{
+          "question": "Quels types de sols nécessitent plus d’irrigation ?",
+          "reponse": "Les sols sableux nécessitent plus d’arrosage car ils ne retiennent pas bien l’eau."},
+        "br6":{
+          "question": "Dugukolo suguya jumɛnw bɛ ji caman de wajibiya?",
+          "reponse": "Cɛncɛn dugukolow bɛ ji caman de wajibiya barisa u tɛ ji mara ka ɲɛ."},
+        "fr7":{
+          "question": "L’eau de pluie suffit-elle pour irriguer toute l’année ?",
+          "reponse": "Non, surtout en saison sèche, il faut prévoir un système d’irrigation supplémentaire."},
+        "br7":{
+          "question": "Yala sanji bɛ se ka ji kɛ san bɛɛ kɔnɔ wa?",
+          "reponse": "Ayi, kɛrɛnkɛrɛnnenya la ja waati la, aw ka kan ka jiko sira wɛrɛ labɛn."},
+        "fr8":{
+          "question": "Peut-on utiliser de l’eau de puits pour l’irrigation ?",
+          "reponse": "Oui, à condition qu’elle soit propre et non salée."},
+        "br8":{
+          "question": "Yala kɔlɔn ji bɛ se ka kɛ jiko ye wa?",
+          "reponse": "Ɔwɔ, ni a saniyalen don ani ni kɔgɔ ta la."},
+        "fr9":{
+          "question": "Quel est l’avantage de l’irrigation goutte à goutte ?",
+          "reponse": "Elle économise l’eau et arrose directement les racines, ce qui améliore le rendement."},
+        "br9":{
+          "question": "Nafa jumɛn bɛ jibolisiraw la?",
+          "reponse": "A bɛ ji kisi ani ka ji di a juw ma k’a ɲɛsin u ma, o bɛ suman sɔrɔcogo ɲɛ."},
+        "fr10":{
+          "question": "Comment éviter la perte d’eau pendant l’irrigation ?",
+          "reponse": "Il faut arroser tôt ou tard dans la journée, couvrir le sol, et éviter les fuites dans les tuyaux."},
+        "br10":{
+          "question": "Cogo di aw bɛ se ka aw yɛrɛ tanga ji bɔnɛni ma jiko waati la ?",
+          "reponse": "Aw ka kan ka ji kɛ joona walima ka a kɛ tile kɔnɔ, ka dugukolo datugu, ani ka aw tanga ji bɔli ma tiyow kɔnɔ."}
+      }
+    ],
+    "Outils et matériel": [
+      {
+        "fr": {
+          "question": "Quels outils sont utiles pour un petit champ ?",
+          "reponse": "La houe, le râteau, le seau, l’arrosoir sont utiles."},
+        "br" : {
+          "question": "Baarakɛminɛn jumɛnw nafa ka bon foro fitininw la?",
+          "reponse": "Houe, rato, daga, jibɔlan nafa ka bon."},
+        "fr1": {
+          "question": "Comment affûter une houe ?",
+          "reponse": "Utilise une pierre ou une lime pour aiguiser le bord."},
+        "br1":{
+          "question": "Cogo di ka bɔgɔdaga sɔgɔ?",
+          "reponse": "Aw bɛ kabakurun walima lime kɛ ka a da sɔgɔ."},
+        "fr2":{
+          "question": "Faut-il changer les outils chaque année ?",
+          "reponse": "Non, bien entretenus, les outils durent plusieurs années."},
+        "br2":{
+          "question": "Yala baarakɛminɛnw ka kan ka yɛlɛma san o san wa?",
+          "reponse": "Ayi, ni baarakɛminɛnw ladonna ka ɲɛ, u bɛ mɛn san damadɔ kɔnɔ."},
+        "fr3":{
+          "question": "Pourquoi faut-il désinfecter les outils après usage ?",
+          "reponse": "Pour éviter de transmettre des maladies d’une plante à une autre."},
+        "br3":{
+          "question": "Mun na a ka kan ka banakisɛfagalanw kɛ baarakɛminɛnw tali kɔfɛ?",
+          "reponse": "Walasa ka banaw bali ka bɔ jiri dɔ la ka taa jiri wɛrɛ la."},
+        "fr4":{
+          "question": "Quel outil est le plus adapté pour désherber ?",
+          "reponse": "La houe ou le sarcloir sont très utilisés pour enlever les mauvaises herbes."},
+        "br4":{
+          "question": "Baarakɛminɛn jumɛn ka fisa binjugu tigɛcogo la?",
+          "reponse": "Baara bɛ Kɛ ni houe walima sarcloir ye kosɛbɛ binjuguw bɔli la."},
+        "fr5":{
+          "question": "Peut-on fabriquer des outils agricoles soi-même ?",
+          "reponse": "Oui, avec du bois, du métal et un peu d’habileté, on peut créer des outils simples."},
+        "br5":{
+          "question": "Yala i bɛ se ka i yɛrɛ ka foro baarakɛminɛnw dilan wa?",
+          "reponse": "Ɔwɔ, ni jiri, nɛgɛ ani seko dɔɔnin ye, i bɛ se ka baarakɛminɛn nɔgɔmanw dilan."},
+        "fr6":{
+          "question": "Quel matériel est essentiel pour l’arrosage ?",
+          "reponse": "Un arrosoir, un tuyau ou un système de goutte-à-goutte sont souvent utilisés."},
+        "br6":{
+          "question": "Minɛn jumɛnw nafa ka bon jiko la?",
+          "reponse": "Jibɔlan, tiyo walima jibolisiraw bɛ kɛ ka baara kɛ."},
+        "fr7":{
+          "question": "Faut-il entretenir les machines agricoles ?",
+          "reponse": "Oui, un bon entretien prolonge leur durée de vie et évite les pannes."},
+        "br7":{
+          "question": "Yala sɛnɛkɛ masinw mago bɛ ladonni na wa?",
+          "reponse": "Ɔwɔ, ladonni ɲuman bɛ u si janya ani ka tiɲɛni bali."},
+        "fr8":{
+          "question": "Comment stocker les outils pour éviter la rouille ?",
+          "reponse": "Il faut les nettoyer et les garder au sec, à l’abri de la pluie."},
+        "br8":{
+          "question": "Baarakɛminɛnw bɛ mara cogo di walasa u kana nɔgɔ?",
+          "reponse": "U ka kan ka saniya ka to u jalen na, ka u yɔrɔ janya sanji la."},
+        "fr9":{
+          "question": "Existe-t-il des outils spécifiques pour les cultures en ligne ?",
+          "reponse": "Oui, des semoirs manuels et des plantoirs sont adaptés aux lignes de culture."},
+        "br9":{
+          "question":"Yala baarakɛminɛn kɛrɛnkɛrɛnnen dɔw bɛ yen jirisunw sɛnɛcogo la wa?",
+          "reponse": "Ɔwɔ, bololabaarakɛminɛnw ni jiriturulanw bɛnnen don sɛnɛfɛnw sɛrɛkɛliw ma."},
+        "fr10":{
+          "question": "Quels outils peut-on partager entre agriculteurs ?",
+          "reponse": "Tracteurs, pulvérisateurs et houes peuvent être partagés pour réduire les coûts."},
+        "br10":{
+          "question": "Baarakɛminɛn jumɛnw bɛ se ka tila sɛnɛkɛlaw ni ɲɔgɔn cɛ?",
+          "reponse": "Tarakitɛriw, fiyɛlanw ani bɔgɔdaga bɛ se ka tila ɲɔgɔn cɛ walasa ka musakaw dɔgɔya."}
+      }
+    ],
+    "Conservation": [
+      {
+        "fr": {
+          "question": "Comment bien conserver les graines ?",
+          "reponse": "Les sécher et les garder dans un sac propre et sec."},
+        "br" : {
+          "question": "Kisɛw bɛ mara ka ɲɛ cogo di?",
+          "reponse": "Aw bɛ u ja ka u bila foroko sanuman jalen dɔ kɔnɔ."},
+        "fr1": {
+          "question": "Peut-on utiliser les graines de l’an dernier ?",
+          "reponse": "Oui, si elles ont bien été conservées."},
+        "br1":{
+          "question": "Yala an bɛ se ka baara kɛ ni salon kisɛw ye wa?",
+          "reponse": "Ɔwɔ, n’u maralen don ka ɲɛ."},
+        "fr2":{
+          "question": "Comment faire du compost ?",
+          "reponse": "Mélange restes, feuilles, fumier et laisse décomposer à l’ombre."},
+        "br2":{
+          "question": "Kɔmpositi bɛ dila cogo di?",
+          "reponse": "Aw bɛ tɔw, furabuluw, nɔgɔw ɲagami ɲɔgɔn na ka a to a ka toli sumaya la."},
+        "fr3":{
+          "question": "Combien de temps pour avoir du compost ?",
+          "reponse": "Environ 2 à 3 mois si bien mélangé et arrosé."},
+        "br3":{
+          "question": "A bɛ waati joli ta ka sɔrɔ ka kɔmposi sɔrɔ?",
+          "reponse": "Kalo 2 fo kalo 3 ɲɔgɔn ni a ɲagaminen don ka ji kɛ a la ka ɲɛ."},
+        "fr4":{
+          "question": "Comment conserver les semences pour l'année suivante ?",
+          "reponse": "Il faut les stocker dans un endroit sec et frais, à l'abri de la lumière."},
+        "br4":{
+          "question": "Kisɛw bɛ mara cogo di san nata kama?",
+          "reponse": "U ka kan ka mara yɔrɔ nɛnɛman na, yɔrɔ min jalen don, yɔrɔ min ka jan yeelen na."},
+        "fr5":{
+          "question": "Pourquoi est-il important de bien stocker les légumes récoltés ?",
+          "reponse": "Pour éviter leur pourrissement et maintenir leur qualité plus longtemps."},
+        "br5":{
+          "question": "Mun na a nafa ka bon ka nakɔfɛn tigɛlenw mara ka ɲɛ?",
+          "reponse": "Walasa u kana toli ani k’u jogo sabati ka mɛn."},
+        "fr6":{
+          "question": "Quels sont les moyens de conserver les fruits à long terme ?",
+          "reponse": "La congélation, la mise en conserve ou le séchage sont des techniques courantes."},
+        "br6":{
+          "question": "Jiridenw maracogo dɔw ye jumɛnw ye waati jan kɔnɔ?",
+          "reponse": "Ka gilase, mara ko ɲuman walima jali ye fɛɛrɛw ye minnu bɛ kɛ tuma caman na."},
+        "fr7":{
+          "question": "Comment conserver l'eau de pluie pour l'irrigation ?",
+          "reponse": "Il faut la stocker dans des réservoirs hermétiques et bien couverts."},
+        "br7":{
+          "question": "Sanji ji bɛ mara cogo di ji ko la?",
+          "reponse": "A ka kan ka mara minɛnw kɔnɔ fiɲɛ tɛ don minnu na, minnu datugulen don kosɛbɛ."},
+        "fr8":{
+          "question": "Quelle est l'importance de la conservation des sols ?",
+          "reponse": "Elle permet d'éviter l'érosion et d'assurer une production agricole durable."},
+        "br8":{
+          "question": "Dugukolo lakanani nafa ka bon cogo di?",
+          "reponse": "A bɛ dɛmɛ don ka dugukolonɔn bali ani ka sɛnɛ sabatili sabati."},
+        "fr9":{
+          "question": "Peut-on conserver des semences pendant plusieurs années ?",
+          "reponse": "Oui, mais il faut s’assurer qu’elles soient bien sèches et stockées à une température stable."},
+        "br9":{
+          "question": "Yala kisɛw bɛ se ka mara san damadɔ kɔnɔ wa?",
+          "reponse": "Ɔwɔ, nka aw ka kan ka aw jija ka u ja pewu ani ka u mara funteni sabatilen na."},
+        "fr10":{
+          "question": "Quels sont les moyens de conserver les céréales ?",
+          "reponse": "Les céréales peuvent être conservées dans des silos ou des sacs hermétiques pour éviter le stockage humide."},
+        "br10":{
+          "question": "Sɛnɛfɛnw maracogo jumɛnw bɛ yen?",
+          "reponse": "Sumanw bɛ se ka mara silow kɔnɔ walima bɔrɔ minnu tɛ fiɲɛ bila u la walasa u kana mara sumaya la."}
+      }
+    ],
+    "Marché et récolte": [
+      {
+        "fr": {
+          "question": "Quand récolter les tomates ?",
+          "reponse": "Quand elles sont rouges et fermes."},
+        "br" : {
+          "question": "Tomati ka kan ka tigɛ tuma jumɛn?",
+          "reponse": "Ni u bilennen don ani ni u jɔlen don."},
+        "fr1": {
+          "question": "Quand récolter les oignons ?",
+          "reponse": "Quand les feuilles commencent à sécher et tomber."},
+        "br1":{
+          "question": "Jaba ka kan ka tigɛ tuma jumɛn?",
+          "reponse": "Ni a buluw y’a daminɛ ka ja ka bin."},
+        "fr2":{
+          "question": "Comment bien sécher les récoltes ?",
+          "reponse": "Étale-les au soleil sur une natte propre et retourne souvent."},
+        "br2":{
+          "question": "Sɛnɛfɛnw bɛ ja ka ɲɛ cogo ?",
+          "reponse": "Aw bɛ u sɛnsɛn tile fɛ dɛbɛn sanuman dɔ kan ka u wuli tuma caman."},
+        "fr3":{
+          "question": "Comment savoir quand récolter les légumes ?",
+          "reponse": "Les légumes sont prêts à être récoltés lorsque leur taille est optimale et qu'ils ont une couleur vive."},
+        "br3":{
+          "question": "Aw bɛ nakɔfɛnw tigɛ waati dɔn cogo di?",
+          "reponse": "Nakɔfɛnw bɛ labɛn ka tigɛ ni u bonya bɛnnen don ani ni u kulɛri bɛ yeelen bɔ."},
+        "fr4":{
+          "question": "Quand faut-il récolter les céréales ?",
+          "reponse": "Les céréales doivent être récoltées lorsque les grains sont durs et que les tiges sont sèches."},
+        "br4":{
+          "question": "Suman ka kan ka tigɛ tuma jumɛn?",
+          "reponse": "Sumanw ka kan ka tigɛ ni sumanw ka gɛlɛn ani ni u buluw jalen don."},
+        "fr5":{
+          "question": "Comment préparer les produits pour les vendre sur le marché ?",
+          "reponse": "Il faut trier, nettoyer, et emballer les produits correctement pour qu'ils soient présentables."},
+        "br5":{
+          "question": "Fɛn minnu bɛ feere sugu la, olu bɛ labɛn cogo di?",
+          "reponse": "Fɛn minnu bɛ dilan, olu ka kan ka tila, ka u saniya, ka u kɛ pake kɔnɔ ka ɲɛ walasa u ka kɛ fɛn ye min bɛ se ka jira."},
+        "fr6":{
+          "question": "Quelle est la meilleure période pour vendre les produits agricoles ?",
+          "reponse": "La meilleure période est lorsque l’offre est faible et la demande est élevée, souvent après la récolte."},
+        "br6":{
+          "question": "Sɛnɛfɛnw feereli waati ɲuman ye tuma jumɛn?",
+          "reponse": "Waati min ka fisa, o ye waati ye min sɔrɔli ka dɔgɔ ani ni ɲinini ka ca, a ka c’a la, suman tigɛlen kɔfɛ."},
+        "fr7":{
+          "question": "Comment transporter les produits sans les abîmer ?",
+          "reponse": "Il est important d'utiliser des paniers ou des caisses adaptées pour éviter les chocs et la perte de qualité."},
+        "br7":{
+          "question": "Sɛnɛ fɛnw bɛ taa cogo di k’a sɔrɔ i ma u tiɲɛ?",
+          "reponse": "A nafa ka bon ka baara kɛ ni segi walima kɛsu bɛnnenw ye walasa ka aw yɛrɛ tanga sɔgɔsɔgɔninjɛ ma ani ka jogo tiɲɛ."},
+        "fr8":{
+          "question": "Quelles sont les étapes pour vendre sur le marché local ?",
+          "reponse": "Les étapes incluent la préparation des produits, le transport au marché, l’installation, et la négociation avec les clients."},
+        "br8":{
+          "question": "Fɛn jumɛnw bɛ kɛ walasa ka feereli kɛ sigida sugu la?",
+          "reponse": "Fɛn minnu bɛ kɛ, olu ye fɛnw labɛnni ye, u tali sugu la, u sigili, ani kumaɲɔgɔnya ni kiliyanw ye."},
+        "fr9":{
+          "question": "Comment assurer la qualité des produits pendant la récolte ?",
+          "reponse": "Il est essentiel de récolter les produits à la bonne maturité et de les manipuler délicatement pour éviter les dommages."},
+        "br9":{
+          "question": "Fɛn dilannenw ka ɲi cogo di suman tigɛ waati?",
+          "reponse": "A nafa ka bon ka sɛnɛfɛnw tigɛ u kɔgɔlen don cogo bɛnnen na, ka u minɛ nɔgɔya la walasa u kana tiɲɛni kɛ."},
+        "fr10":{
+          "question": "Comment différencier un bon produit agricole ?",
+          "reponse": "Un bon produit agricole doit être frais, bien formé et sans dommages visibles."},
+        "br10":{
+          "question": "Sɛnɛfɛn ɲuman danfara bɛ se ka dɔn cogo di?",
+          "reponse": "Sɛnɛfɛn ɲuman ka kan ka kɛ fɛn kura ye, min dilannen don ka ɲɛ ani tiɲɛni yelen tɛ min na."}
+      }
+    ],
+    "Techniques avancées": [
+      {
+        "fr": {
+          "question": "Qu’est-ce que la rotation des cultures ?",
+          "reponse": "Changer de culture chaque année pour garder un sol sain."},
+        "br" : {
+          "question": "Sɛnɛfɛnw falen-falen ye mun ye?",
+          "reponse": "Aw bɛ sɛnɛfɛnw yɛlɛma san o san walasa ka dugukolo kɛnɛman mara."},
+        "fr1": {
+          "question":"Peut-on cultiver sans engrais chimique ?",
+          "reponse": "Oui, en utilisant compost, fumier et bonne rotation."},
+        "br1":{
+          "question": "Yala sɛnɛ bɛ se ka kɛ ni bagaji kemikaliw tɛ wa?",
+          "reponse": "Ɔwɔ, aw bɛ baara kɛ ni kɔmposi, nɔgɔ ani falen-falen ni ɲuman ye."},
+        "fr2":{
+          "question": "Pourquoi mes plantes poussent lentement ?",
+          "reponse": "Peut-être manque de soleil, eau ou nutriments."},
+        "br2":{
+          "question": "Mun na ne ka jiriw falen ni ka suman?",
+          "reponse": "Laala tile, ji walima balofɛnw dɛsɛ."},
+        "fr3":{
+          "question": "Comment protéger les jeunes plantes du vent ?",
+          "reponse": "Utilise des haies ou des petits pare-vents en paille."},
+        "br3":{
+          "question": "Jiri fitiniw bɛ tanga cogo di fiɲɛ ma?",
+          "reponse": "Aw bɛ baara kɛ ni jirisunw ye walima fiɲɛbɔlan misɛnninw ye minnu dilalen don ni bɔgɔ ye."},
+        "fr4":{
+          "question": "Pourquoi les fruits tombent avant d’être mûrs ?",
+          "reponse": "Manque d’eau ou attaque d’insectes."},
+        "br4":{
+          "question": "Mun na jiridenw bɛ bin sani u ka mɔ?",
+          "reponse": "Ji dɛsɛ walima fɛnɲɛnamaw ka binkanni."},
+        "fr5":{
+          "question": "Faut-il labourer avant chaque culture ?",
+          "reponse": "Oui, cela aide les racines à bien se développer."},
+        "br5":{
+          "question": "Yala i ka kan ka sɛnɛ kɛ sanni sɛnɛfɛn bɛɛ ka tigɛ wa?",
+          "reponse": "Ɔwɔ, a bɛ jiriw dɛmɛ ka falen ka ɲɛ"},
+        "fr6":{
+          "question": "Comment garder l’humidité dans le sol ?",
+          "reponse": "Couvre le sol avec des feuilles ou de la paille (paillage)."},
+        "br6":{
+          "question": "Ji bɛ to dugukolo la cogo di?",
+          "reponse": "Aw bɛ dugukolo datugu ni furabuluw ye walima ni bɔgɔ ye"},
+        "fr7":{
+          "question": "Quelles sont les techniques modernes pour améliorer la fertilité du sol ?",
+          "reponse": "L'utilisation d'engrais organiques, la rotation des cultures et la culture de couverture sont des techniques efficaces pour améliorer la fertilité."},
+        "br7":{
+          "question": "Bi fɛɛrɛ jumɛnw bɛ yen walasa ka dugukolo nafa bonya?",
+          "reponse": "Bagaji minnu bɛ kɛ ni fɛnɲɛnamaw ye, olu tali, sɛnɛfɛnw falenfalenni ani sɛnɛfɛnw datugucogo ye fɛɛrɛ ɲumanw ye walasa ka den sɔrɔli ɲɛ."},
+        "fr8":{
+          "question": "Comment utiliser les drones dans l'agriculture ?",
+          "reponse": "Les drones peuvent être utilisés pour surveiller les cultures, détecter les maladies et appliquer des traitements ciblés."},
+        "br8":{
+          "question": "Dronw bɛ baara kɛ cogo di sɛnɛko la?",
+          "reponse": "Drɔnw bɛ se ka kɛ ka sɛnɛfɛnw kɔlɔsi, ka banaw dɔn ani ka furakɛli laɲinitaw kɛ."},
+        "fr9":{
+          "question": "Qu'est-ce que l'agriculture de précision ?",
+          "reponse": "L'agriculture de précision utilise des technologies comme les capteurs et les cartes pour optimiser l'utilisation des ressources et augmenter les rendements."},
+        "br9":{
+          "question": "Sɛnɛ tigitigi ye mun ye?",
+          "reponse": "Sɛnɛ tigitigi bɛ baara kɛ ni fɛɛrɛw ye i n’a fɔ sensɛriw ni kartiw walasa ka nafolo baaracogo ɲuman kɛ ani ka dɔ fara sɔrɔ kan."},
+        "fr10":{
+          "question": "Comment utiliser les biotechnologies pour améliorer les cultures ?",
+          "reponse": "Les biotechnologies permettent de créer des plantes résistantes aux maladies, aux insectes et aux conditions climatiques extrêmes."},
+        "br10":{
+          "question": "Baara bɛ kɛ ni biyoteknoloji ye cogo di walasa ka sɛnɛfɛnw ɲɛ?",
+          "reponse": "Biyoteknoloji bɛ kɛ sababu ye ka jiriw dilan minnu bɛ se ka banaw, fɛnɲɛnamaw ani waati cogoya juguw kɛlɛ."}
+      }
+    ],
+    "Divers": [
+      {
+        "fr": {
+          "question": "Quels sont les avantages du compost ?",
+          "reponse": "Il enrichit le sol et remplace l’engrais chimique."},
+        "br" : {
+          "question": "Nafa jumɛnw bɛ sɔrɔ kɔmposi la?",
+          "reponse": "A bɛ dugukolo nafa ani ka bagaji bila a nɔ na."},
+        "fr1": {
+          "question": "Les cendres peuvent-elles être utiles ?",
+          "reponse": "Oui, pour enrichir le sol et éloigner certains insectes."},
+        "br1":{
+          "question": "Yala nafa bɛ se ka kɛ buguri la wa?",
+          "reponse": "Ɔwɔ, walasa ka dugukolo nafa ani ka fɛnɲɛnama dɔw yɔrɔ janya."},
+        "fr2":{
+          "question": "Pourquoi les racines sortent du sol ?",
+          "reponse": "Peut-être que le sol est trop dur ou peu profond."},
+        "br2":{
+          "question": "Mun na jirisunw bɛ bɔ dugukolo la?",
+          "reponse": "Laala dugukolo ka gɛlɛn kojugu walima a man dun."},
+        "fr3":{
+          "question": "Que faire si les graines ne poussent pas ?",
+          "reponse": "Vérifie l’eau, la qualité des graines et la profondeur de semis."},
+        "br3":{
+          "question": "Ni kisɛw ma falen, aw ka kan ka mun kɛ?",
+          "reponse": "Aw bɛ ji, kisɛ suguya ani ka danniw dan lajɛ."},
+        "fr4":{
+          "question": "Comment protéger les cultures contre les intempéries ?",
+          "reponse": "L'installation de filets de protection, l'utilisation de serres et la plantation d'arbres coupe-vent sont des solutions efficaces."},
+        "br4":{
+          "question": "Sɛnɛfɛnw bɛ se ka tanga cogo di ka bɔ waati juguw la?",
+          "reponse": "Lakanali nɛgɛw sigili, ka baara kɛ ni jirisunw ye ani ka fiɲɛbɔlanw turu, olu ye fura ɲumanw ye."},
+        "fr5":{
+          "question": "Quel est le rôle de la biodiversité dans l'agriculture ?",
+          "reponse": "La biodiversité aide à maintenir un écosystème équilibré, ce qui permet de réduire les maladies et les parasites tout en favorisant une meilleure pollinisation."},
+        "br5":{
+          "question": "Fɛnɲɛnɛma suguya caman jɔyɔrɔ ye mun ye sɛnɛko la?",
+          "reponse": "Fɛnɲɛnɛma suguya caman bɛ dɛmɛ kɛ ka ɲɛnamaya kɛcogo sabati, o ba to banaw ni fɛnɲɛnamaw bɛ dɔgɔya ka sɔrɔ ka tulumugu ɲuman sabati."},
+        "fr6":{
+          "question": "Pourquoi est-il important de conserver les semences ?",
+          "reponse": "La conservation des semences permet de préserver la biodiversité et d'assurer des récoltes futures de qualité."},
+        "br6":{
+          "question": "Mun na a nafa ka bon ka kisɛw kisi?",
+          "reponse": "Kisɛw lakanani bɛ dɛmɛ ka fɛnɲɛnama suguya caman lakana ani ka suman tigɛcogo ɲuman sabati sini."},
+        "fr7":{
+          "question": "Comment lutter contre l'érosion des sols ?",
+          "reponse": "Les techniques comme les haies, les canaux de drainage, et le paillage aident à limiter l'érosion."},
+        "br7":{
+          "question": "Dugukolo sɔgɔli bɛ kɛlɛ cogo di?",
+          "reponse": "Fɛɛrɛ minnu bɛ kɛ i n’a fɔ jirisunw, jibɔyɔrɔw, ani jirisunw, olu bɛ dɛmɛ ka dan sigi jikuruw la."},
+        "fr8":{
+          "question": "Que faire pour préserver les ressources en eau en agriculture ?",
+          "reponse": "La collecte des eaux de pluie, l'irrigation goutte-à-goutte, et l'utilisation de paillis aident à économiser l'eau."},
+        "br8":{
+          "question": "Mun bɛ se ka kɛ walasa ka ji sɔrɔyɔrɔw lakana sɛnɛko la?",
+          "reponse": "Sanjiko, jibɔ ni jisigiyɔrɔw, ani jirisunw tali bɛ dɛmɛ ka ji kisi."},
+        "fr9":{
+          "question": "Quelle est l'importance de la gestion des déchets en agriculture ?",
+          "reponse": "La gestion des déchets permet de réduire la pollution, d'améliorer la qualité du sol et de produire du compost."},
+        "br9":{
+          "question": "Nɔgɔw ladonni nafa ka bon cogo di sɛnɛko la?",
+          "reponse": "Nɔgɔw ladonni bɛ dɛmɛ ka nɔgɔya dɔgɔya, ka dugukolo cogoya ɲɛ ani ka kɔmposi dilan."},
+        "fr10":{
+          "question": "Comment encourager l'agriculture durable ?",
+          "reponse": "En pratiquant la rotation des cultures, en réduisant l'utilisation de produits chimiques et en favorisant l'agriculture biologique."},
+        "br10":{
+          "question": "Cogo di ka dusu don sɛnɛ sabatili la?",
+          "reponse": "Ni sɛnɛfɛnw falen-falenni degeliw ye, ka dɔ bɔ kemikɛlifɛnw tali la ani ka sɛnɛ kɛcogo ɲɛ."}
+      }
+    ]
+  }
